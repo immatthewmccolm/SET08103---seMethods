@@ -1,8 +1,6 @@
 # SET08103 - Software Engineering Methods
 
-![workflow](https://github.com/immatthewmccolm/SET08103---seMethods/actions/workflows/main.yml/badge.svg)
-
-[![LICENSE](https://img.shields.io/github/license/immatthewmccolm/SET08103---seMethods.svg?style=flat-square)](https://github.com/immatthewmccolm/SET08103---seMethods/blob/master/LICENSE)
-[![Releases](https://img.shields.io/github/release/immatthewmccolm/SET08103---seMethods/all.svg?style=flat-square)](https://github.com/immatthewmccolm/SET08103---seMethods/releases)
-
-![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/immatthewmccolm/SET08103---seMethods/main.yml/develop?style=flat-square)
+- Master Build Status ![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/immatthewmccolm/SET08103---seMethods/main.yml?branch=master)
+- Develop Build Status ![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/immatthewmccolm/SET08103---seMethods/main.yml?branch=develop)
+- Licence [![LICENSE](https://img.shields.io/github/license/immatthewmccolm/SET08103---seMethods.svg)](https://github.com/immatthewmccolm/SET08103---seMethods/blob/master/LICENSE)
+- Release [![Releases](https://img.shields.io/github/release/immatthewmccolm/SET08103---seMethods/all.svg)](https://github.com/immatthewmccolm/SET08103---seMethods/releases)
