@@ -4,3 +4,5 @@
 
 [![LICENSE](https://img.shields.io/github/license/immatthewmccolm/SET08103---seMethods.svg?style=flat-square)](https://github.com/immatthewmccolm/SET08103---seMethods/blob/master/LICENSE)
 [![Releases](https://img.shields.io/github/release/immatthewmccolm/SET08103---seMethods/all.svg?style=flat-square)](https://github.com/immatthewmccolm/SET08103---seMethods/releases)
+
+![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/immatthewmccolm/SET08103---seMethods/main.yml/develop?style=flat-square)
